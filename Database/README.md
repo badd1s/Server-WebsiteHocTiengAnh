@@ -1,5 +1,5 @@
 Tài khoản và mật khẩu quản trị 
 ```
-danght2
-DangHt22!
+username: danght2
+password: DangHt22!
 ```
