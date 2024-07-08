@@ -1,5 +1,4 @@
-Tài khoản và mật khẩu quản trị 
-```
+Tài khoản quản trị 
+
 username: danght2
 password: DangHt22!
-```
