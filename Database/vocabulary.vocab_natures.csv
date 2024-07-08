@@ -1,0 +1,186 @@
+_id,vocabulary,type,pronunciation,meaning,__v
+6669ab60deb9c3c8f02d43ca,forest,n,/ˈfɔːrɪst/,rừng,0
+6669ab60deb9c3c8f02d43cb,rainforest,n,/ˈreɪnfɔːrɪst/,rừng mưa nhiệt đới,0
+6669ab60deb9c3c8f02d43cc,mountain,n,/ˈmaʊn.tən/,"núi, dãy núi",0
+6669ab60deb9c3c8f02d43cd,highland,n,/ˈhaɪ.lənd/,cao nguyên,0
+6669ab60deb9c3c8f02d43ce,hill,n,/hɪl/,đồi,0
+6669ab60deb9c3c8f02d43cf,valley,n,/ˈvæl.i/,"thung lũng, châu thổ, lưu vực",0
+6669ab60deb9c3c8f02d43d0,cave,n,/keɪv/,hang động,0
+6669ab60deb9c3c8f02d43d1,rock,n,/rɑːk/,đá,0
+6669ab60deb9c3c8f02d43d2,slope,n,/sloʊp/,dốc,0
+6669ab60deb9c3c8f02d43d3,volcano,n,/vɑːlˈkeɪ.noʊ/,núi lửa,0
+6669ab60deb9c3c8f02d43d4,eruption,n,/ɪˈrʌp.ʃən/,sự phun trào (núi lửa),0
+6669ab60deb9c3c8f02d43d5,waterfall,n,/ˈwɑː.t̬ɚ.fɑːl/,thác nước,0
+6669ab60deb9c3c8f02d43d6,canyon,n,/ˈkænjən/,hẻm núi,0
+6669ab60deb9c3c8f02d43d7,cliff,n,/klɪf/,vách đá,0
+6669ab60deb9c3c8f02d43d8,bush,n,/bʊʃ/,"bụi cây, bụi rậm",0
+6669ab60deb9c3c8f02d43d9,desert,n,/ˈdez.ɚt/,"sa mạc, hoang mạc",0
+6669ab60deb9c3c8f02d43da,oasis,n,/əʊˈeɪsɪs/,ốc đảo,0
+6669ab60deb9c3c8f02d43db,savanna,n,/səˈvæn.ə/,"hoang mạc, thảo nguyên",0
+6669ab60deb9c3c8f02d43dc,sand dune,n,/ˈsænd duːn/,đụn cát,0
+6669ab60deb9c3c8f02d43dd,coal,n,/koʊl/,than đá,0
+6669ab60deb9c3c8f02d43de,fossil,"n, adj",/ˈfɑː.səl/,"chất liệu hóa thạch; hóa thạch, hóa đá",0
+6669ab60deb9c3c8f02d43df,soil,n,/sɔɪl/,"đất trồng, đất dai",0
+6669ab60deb9c3c8f02d43e0,pond,n,/pɑːnd/,ao nước,0
+6669ab60deb9c3c8f02d43e1,river,n,/ˈrɪv.ɚ/,dòng sông,0
+6669ab60deb9c3c8f02d43e2,riverbank,n,/ˈrɪvəˌbæŋk/,"bờ sông, bãi sông, vùng đất ven sông",0
+6669ab60deb9c3c8f02d43e3,creek,n,/kriːk/,"lạch, nhánh sông, sông con",0
+6669ab60deb9c3c8f02d43e4,sea,n,/siː/,biển,0
+6669ab60deb9c3c8f02d43e5,ocean,n,/ˈəʊʃn/,đại dương,0
+6669ab60deb9c3c8f02d43e6,reef,n,/riːf/,rặng đá (dưới biển),0
+6669ab60deb9c3c8f02d43e7,coral reef,n,/ˈkɔːrəl riːf/,rặng san hô,0
+6669ab60deb9c3c8f02d43e8,beach,n,/biːtʃ/,bãi biển,0
+6669ab60deb9c3c8f02d43e9,bay,n,/beɪ/,vịnh,0
+6669ab60deb9c3c8f02d43ea,seashore,n,/ˈsiːʃɔːr/,bờ biển,0
+6669ab60deb9c3c8f02d43eb,meadow,n,/ˈmed.oʊ/,"đồng cỏ, bãi cỏ",0
+6669ab60deb9c3c8f02d43ec,mud,n,/mʌd/,bùn,0
+6669ab60deb9c3c8f02d43ed,peninsula,n,/pəˈnɪn.sə.lə/,bán đảo,0
+6669ab60deb9c3c8f02d43ee,island,n,/ˈaɪlənd/,đảo,0
+6669ab60deb9c3c8f02d43ef,continent,n,/ˈkɑːntɪnənt/,châu lục,0
+6669ab60deb9c3c8f02d43f0,environment,n,/ɪnˈvaɪ.rən.mənt/,môi trường,0
+6669ab60deb9c3c8f02d43f1,planet,n,/ˈplæn.ɪt/,hành tinh,0
+6669ab60deb9c3c8f02d43f2,scenery,n,/ˈsiː.nɚ.i/,"phong cảnh, cảnh vật",0
+6669ab60deb9c3c8f02d43f3,rose,n,/rəʊz/,hoa hồng,0
+6669ab60deb9c3c8f02d43f4,sunflower,n,/ˈsʌnflaʊər/,hoa hướng dương,0
+6669ab60deb9c3c8f02d43f5,lily,n,/ˈlɪli/,hoa huệ tây,0
+6669ab60deb9c3c8f02d43f6,orchid,n,/ˈɔːrkɪd/,hoa lan,0
+6669ab60deb9c3c8f02d43f7,daisy,n,/ˈdeɪzi/,hoa cúc,0
+6669ab60deb9c3c8f02d43f8,dandelion,n,/ˈdændɪlaɪən/,hoa bồ công anh,0
+6669ab60deb9c3c8f02d43f9,tulip,n,/ˈtuːlɪp/,hoa tulip,0
+6669ab60deb9c3c8f02d43fa,water lily,n,/ˈwɔːtər lɪli/,hoa súng,0
+6669ab60deb9c3c8f02d43fb,lotus,n,/ˈləʊtəs/,hoa sen,0
+6669ab60deb9c3c8f02d43fc,hydrangea,n,/haɪˈdreɪndʒə/,hoa cẩm tú cầu,0
+6669ab60deb9c3c8f02d43fd,jasmine,n,/ˈdʒæzmɪn/,hoa nhài,0
+6669ab60deb9c3c8f02d43fe,camellia,n,/kəˈmiːliə/,hoa trà,0
+6669ab60deb9c3c8f02d43ff,peony,n,/ˈpiːəni/,hoa mẫu đơn,0
+6669ab60deb9c3c8f02d4400,carnation,n,/kɑːrˈneɪʃn/,hoa cẩm chướng,0
+6669ab60deb9c3c8f02d4401,tree,n,/triː/,cây,0
+6669ab60deb9c3c8f02d4402,leaf,n,/liːf/,lá,0
+6669ab60deb9c3c8f02d4403,flower,n,/ˈflaʊər/,hoa,0
+6669ab60deb9c3c8f02d4404,petal,n,/ˈpetl/,cánh hoa,0
+6669ab60deb9c3c8f02d4405,pollen,n,/ˈpɑːlən/,phấn hoa,0
+6669ab60deb9c3c8f02d4406,thorn,n,/θɔːrn/,gai,0
+6669ab60deb9c3c8f02d4407,bud,n,/bʌd/,chồi,0
+6669ab60deb9c3c8f02d4408,branch,n,/bræntʃ/,cành cây,0
+6669ab60deb9c3c8f02d4409,sap,n,/sæp/,nhựa cây,0
+6669ab60deb9c3c8f02d440a,root,n,/ruːt/,rễ cây,0
+6669ab60deb9c3c8f02d440b,bark,n,/bɑːrk/,vỏ cây,0
+6669ab60deb9c3c8f02d440c,cactus,n,/ˈkæktəs/,xương rồng,0
+6669ab60deb9c3c8f02d440d,succulent,n,/ˈsʌkjələnt/,sen đá,0
+6669ab60deb9c3c8f02d440e,aloe vera,n,/ˌæləʊ ˈvɪrə/,nha đam,0
+6669ab60deb9c3c8f02d440f,bamboo,n,/ˌbæmˈbuː/,cây tre,0
+6669ab60deb9c3c8f02d4410,suger cane,n,/ˈʃʊɡər keɪn/,cây mía,0
+6669ab60deb9c3c8f02d4411,pine,n,/paɪn/,cây thông,0
+6669ab60deb9c3c8f02d4412,willow,n,/ˈwɪləʊ/,cây liễu,0
+6669ab60deb9c3c8f02d4413,maple,n,/ˈmeɪpl/,cây phong,0
+6669ab60deb9c3c8f02d4414,weather,n,/ˈweðər/,thời tiết,0
+6669ab60deb9c3c8f02d4415,weather forecast,n,/ˈweðər fɔːrkæst/,dự báo thời tiết,0
+6669ab60deb9c3c8f02d4416,windy,n,/ˈwɪndi/,nhiều gió,0
+6669ab60deb9c3c8f02d4417,haze,n,/heɪz/,"màn sương mỏng, thường gây ra bởi sức nóng",0
+6669ab60deb9c3c8f02d4418,breeze,n,/briːz/,gió nhẹ,0
+6669ab60deb9c3c8f02d4419,gloomy,adj,/ˈɡluːmi/,trời ảm đạm,0
+6669ab60deb9c3c8f02d441a,cloudy,adj,/ˈklaʊdi/,trời nhiều mây,0
+6669ab60deb9c3c8f02d441b,sunny,adj,/ˈsʌni/,"bầu trời chỉ có mặt trời chiếu sáng, không có mây",0
+6669ab60deb9c3c8f02d441c,foggy,adj,/ˈfɑːɡi/,có sương mù,0
+6669ab60deb9c3c8f02d441d,humid,adj,/ˈhjuːmɪd/,ẩm,0
+6669ab60deb9c3c8f02d441e,bright,adj,/braɪt/,sáng mạnh,0
+6669ab60deb9c3c8f02d441f,wet,adj,/wet/,ẩm ướt,0
+6669ab60deb9c3c8f02d4420,dry,adj,/draɪ/,hanh khô,0
+6669ab60deb9c3c8f02d4421,mild,adj,/maɪld/,"ôn hòa, ấm áp",0
+6669ab60deb9c3c8f02d4422,clear,adj,/klɪr/,"trời trong trẻo, quang đãng",0
+6669ab60deb9c3c8f02d4423,climate,n,/ˈklaɪmət/,khí hậu,0
+6669ab60deb9c3c8f02d4424,overcast,adj,/ˌəʊvərˈkæst/,âm u,0
+6669ab60deb9c3c8f02d4425,lightning,n,/ˈlaɪtnɪŋ/,tia chớp,0
+6669ab60deb9c3c8f02d4426,snow,n,/snəʊ/,tuyết,0
+6669ab60deb9c3c8f02d4427,drizzle,n,/ˈdrɪzl/,mưa phùn,0
+6669ab60deb9c3c8f02d4428,hail,n,/heɪl/,mưa đá,0
+6669ab60deb9c3c8f02d4429,thunderstorm,n,/ˈθʌndərstɔːrm/,"bão tố có sấm sét, cơn giông",0
+6669ab60deb9c3c8f02d442a,snowflake,n,/ˈsnəʊfleɪk/,bông hoa tuyết,0
+6669ab60deb9c3c8f02d442b,snowstorm,n,/ˈsnəʊstɔːrm/,bão tuyết,0
+6669ab60deb9c3c8f02d442c,blizzard,n,/ˈblɪzərd/,cơn bão tuyết,0
+6669ab60deb9c3c8f02d442d,damp,adj,/dæmp/,"ẩm thấp, ẩm ướt",0
+6669ab60deb9c3c8f02d442e,thunder,n,/ˈθʌndər/,sấm sét,0
+6669ab60deb9c3c8f02d442f,rain,n,/reɪn/,mưa,0
+6669ab60deb9c3c8f02d4430,shower,n,/ˈʃaʊər/,mưa rào,0
+6669ab60deb9c3c8f02d4431,rain-torm,n,/ˈreɪnstɔːrm/,mưa bão,0
+6669ab60deb9c3c8f02d4432,flood,n,/flʌd/,lũ lụt,0
+6669ab60deb9c3c8f02d4433,gale,n,/ɡeɪl/,gió giật,0
+6669ab60deb9c3c8f02d4434,tornado,n,/tɔːrˈneɪdəʊ/,lốc xoáy,0
+6669ab60deb9c3c8f02d4435,typhoon,n,/taɪˈfuːn/,bão nhiệt đới,0
+6669ab60deb9c3c8f02d4436,storm,n,/stɔːrm/,dông bão,0
+6669ab60deb9c3c8f02d4437,rainbow,n,/ˈreɪnbəʊ/,cầu vồng,0
+6669ab60deb9c3c8f02d4438,blustery,n,/ˈblʌstəri/,cơn gió mạnh,0
+6669ab60deb9c3c8f02d4439,mist,n,/mɪst/,sương,0
+6669ab60deb9c3c8f02d443a,hurricane,n,/ˈhɜːrəkeɪn/,siêu bão,0
+6669ab60deb9c3c8f02d443b,frosty,adj,/ˈfrɔːsti/,lạnh băng,0
+6669ab60deb9c3c8f02d443c,hot,adj,/hɑːt/,nóng,0
+6669ab60deb9c3c8f02d443d,boiling (hot),adj,/ˈbɔɪlɪŋ/,rất nóng,0
+6669ab60deb9c3c8f02d443e,cold,adj,/kəʊld/,lạnh,0
+6669ab60deb9c3c8f02d443f,chilly,adj,/ˈtʃɪli/,lạnh thấu xương,0
+6669ab60deb9c3c8f02d4440,freeze,v,/friːz/,đóng băng,0
+6669ab60deb9c3c8f02d4441,temperature,n,/ˈtemprətʃər/,nhiệt độ,0
+6669ab60deb9c3c8f02d4442,thermometer,n,/θərˈmɑːmɪtər/,nhiệt kế,0
+6669ab60deb9c3c8f02d4443,degree,n,/dɪˈɡriː/,độ,0
+6669ab60deb9c3c8f02d4444,Fahrenheit (degree),adj,/ˈfærənhaɪt/,độ F,0
+6669ab60deb9c3c8f02d4445,Celsius (degree),adj,/ˈselsiəs/,độ C,0
+6669ab60deb9c3c8f02d4446,mouse,n,/maʊs/,con chuột,0
+6669ab60deb9c3c8f02d4447,cat,n,/kæt/,con mèo,0
+6669ab60deb9c3c8f02d4448,dog,n,/dɑːɡ/,con chó,0
+6669ab60deb9c3c8f02d4449,kitten,n,/ˈkɪt̬.ən/,mèo con,0
+6669ab60deb9c3c8f02d444a,puppy,n,/ˈpʌp.i/,chó con,0
+6669ab60deb9c3c8f02d444b,pig,n,/pɪɡ/,"con lợn, heo",0
+6669ab60deb9c3c8f02d444c,chicken,n,/ˈtʃɪk.ɪn/,con gà,0
+6669ab60deb9c3c8f02d444d,duck,n,/dʌk/,con vịt,0
+6669ab60deb9c3c8f02d444e,goose,n,/ɡuːs/,con ngỗng,0
+6669ab60deb9c3c8f02d444f,turkey,n,/ˈtɝː.ki/,con gà tây,0
+6669ab60deb9c3c8f02d4450,stork,n,/stɔːrk/,con cò,0
+6669ab60deb9c3c8f02d4451,swan,n,/swɑːn/,thiên nga,0
+6669ab60deb9c3c8f02d4452,rabbit,n,/ˈræb.ɪt/,con thỏ,0
+6669ab60deb9c3c8f02d4453,cow,n,/kaʊ/,con bò,0
+6669ab60deb9c3c8f02d4454,buffalo,n,/ˈbʌfələʊ/,con trâu,0
+6669ab60deb9c3c8f02d4455,horse,n,/hɔːrs/,con ngựa,0
+6669ab60deb9c3c8f02d4456,goat,n,/ɡoʊt/,con dê,0
+6669ab60deb9c3c8f02d4457,sheep,n,/ʃiːp/,con cừu,0
+6669ab60deb9c3c8f02d4458,fish,n,/fɪʃ/,con cá,0
+6669ab60deb9c3c8f02d4459,goldfish,n,/ˈɡoʊld.fɪʃ/,cá vàng,0
+6669ab60deb9c3c8f02d445a,crab,n,/kræb/,con cua,0
+6669ab60deb9c3c8f02d445b,shrimp,n,/ʃrɪmp/,con tôm,0
+6669ab60deb9c3c8f02d445c,squid,n,/skwɪd/,con mực,0
+6669ab60deb9c3c8f02d445d,octopus,n,/ˈɑːktəpʊs/,con bạch tuộc,0
+6669ab60deb9c3c8f02d445e,shark,n,/ʃɑːrk/,cá mập,0
+6669ab60deb9c3c8f02d445f,dolphin,n,/ˈdɑːlfɪn/,cá heo,0
+6669ab60deb9c3c8f02d4460,turtle,n,/ˈtɝː.t̬əl/,con rùa,0
+6669ab60deb9c3c8f02d4461,monkey,n,/ˈmʌŋ.ki/,con khỉ,0
+6669ab60deb9c3c8f02d4462,tiger,n,/ˈtaɪɡər/,con hổ,0
+6669ab60deb9c3c8f02d4463,lion,n,/ˈlaɪ.ən/,con sư tử,0
+6669ab60deb9c3c8f02d4464,leopard,n,/ˈlep.ɚd/,con báo,0
+6669ab60deb9c3c8f02d4465,elephant,n,/ˈel.ə.fənt/,con voi,0
+6669ab60deb9c3c8f02d4466,giraffe,n,/dʒɪˈræf/,hươu cao cổ,0
+6669ab60deb9c3c8f02d4467,deer,n,/dɪr/,"con hươu, nai",0
+6669ab60deb9c3c8f02d4468,hippo,n,/ˈhɪpəʊ/,con hà mã,0
+6669ab60deb9c3c8f02d4469,rhino,n,/ˈraɪnəʊ/,con tê giác,0
+6669ab60deb9c3c8f02d446a,hedgehog,n,/ˈhedʒ.hɑːɡ/,con nhím,0
+6669ab60deb9c3c8f02d446b,squirrel,n,/ˈskwɝː.əl/,con sóc,0
+6669ab60deb9c3c8f02d446c,otter,n,/ˈɑː.t̬ɚ/,rái cá,0
+6669ab60deb9c3c8f02d446d,kangaroo,n,/ˌkæŋ.ɡəˈruː/,chuột túi,0
+6669ab60deb9c3c8f02d446e,hamster,n,/ˈhæm.stɚ/,chuột đồng,0
+6669ab60deb9c3c8f02d446f,fox,n,/fɑːks/,con cáo,0
+6669ab60deb9c3c8f02d4470,wolf,n,/wʊlf/,con sói,0
+6669ab60deb9c3c8f02d4471,bear,n,/ber/,con gấu,0
+6669ab60deb9c3c8f02d4472,panda,n,/ˈpæn.də/,con gấu trúc,0
+6669ab60deb9c3c8f02d4473,ostrich,n,/ˈɑː.strɪtʃ/,đà điểu,0
+6669ab60deb9c3c8f02d4474,bee,n,/biː/,ong,0
+6669ab60deb9c3c8f02d4475,butterfly,n,/ˈbʌtərflaɪ/,bướm,0
+6669ab60deb9c3c8f02d4476,worm,n,/wɜːrm/,con sâu,0
+6669ab60deb9c3c8f02d4477,earthworm,n,/ˈɜːrθwɜːrm/,con giun,0
+6669ab60deb9c3c8f02d4478,eagle,n,/ˈiː.ɡəl/,đại bàng,0
+6669ab60deb9c3c8f02d4479,owl,n,/aʊl/,con cú,0
+6669ab60deb9c3c8f02d447a,parrot,n,/ˈper.ət/,con vẹt,0
+6669ab60deb9c3c8f02d447b,peacock,n,/ˈpiː.kɑːk/,con công,0
+6669ab60deb9c3c8f02d447c,dove,n,/dʌv/,chim bồ câu,0
+6669ab60deb9c3c8f02d447d,flamingo,n,/fləˈmɪŋ.ɡoʊ/,chim hồng hạc,0
+6669ab60deb9c3c8f02d447e,crow,n,/kroʊ/,con quạ,0
+6669ab60deb9c3c8f02d447f,hawk,n,/hɑːk/,chim diều hâu,0
+6669ab60deb9c3c8f02d4480,penguin,n,/ˈpeŋ.ɡwɪn/,chim cánh cụt,0
+6669ab60deb9c3c8f02d4481,sparrow,n,/ˈsper.oʊ/,chim sẻ,0
+6669ab60deb9c3c8f02d4482,swallow,n,/ˈswɑː.loʊ/,"chim nhạn, én",0

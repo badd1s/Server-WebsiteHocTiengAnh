@@ -1,0 +1,138 @@
+_id,vocabulary,type,pronunciation,meaning,__v
+6669ab7fdeb9c3c8f02d4486,apple,n,/ˈæp.əl/,quả táo,0
+6669ab7fdeb9c3c8f02d4487,banana,n,/bəˈnæn.ə/,quả chuối,0
+6669ab7fdeb9c3c8f02d4488,pear,n,/per/,quả lê,0
+6669ab7fdeb9c3c8f02d4489,grape,n,/ɡreɪp/,quả nho,0
+6669ab7fdeb9c3c8f02d448a,peach,n,/piːtʃ/,quả đào,0
+6669ab7fdeb9c3c8f02d448b,orange,n,/ˈɔːr.ɪndʒ/,quả cam,0
+6669ab7fdeb9c3c8f02d448c,mango,n,/ˈmæŋ.ɡoʊ/,quả xoài,0
+6669ab7fdeb9c3c8f02d448d,coconut,n,/ˈkoʊ.kə.nʌt/,quả dừa,0
+6669ab7fdeb9c3c8f02d448e,pineapple,n,/ˈpaɪnæpl/,quả dứa,0
+6669ab7fdeb9c3c8f02d448f,watermelon,n,/ˈwɑː.t̬ɚˌmel.ən/,dưa hấu,0
+6669ab7fdeb9c3c8f02d4490,durian,n,/ˈduːriən/,sầu riêng,0
+6669ab7fdeb9c3c8f02d4491,lychee,n,"/ˈlaitʃiː, ˈliː-/",quả vải,0
+6669ab7fdeb9c3c8f02d4492,guava,n,/ˈɡwaːvə/,quả ổi,0
+6669ab7fdeb9c3c8f02d4493,starfruit,n,/ˈstɑːr.fruːt/,quả khế,0
+6669ab7fdeb9c3c8f02d4494,apricot,n,/ˈeɪ.prɪ.kɑːt/,quả mơ,0
+6669ab7fdeb9c3c8f02d4495,jackfruit,n,/ˈdʒæk.fruːt/,quả mít,0
+6669ab7fdeb9c3c8f02d4496,avocado,n,/ˌɑː.vəˈkɑː.doʊ/,quả bơ,0
+6669ab7fdeb9c3c8f02d4497,papaya,n,/pəˈpaɪ.ə/,quả đu đủ,0
+6669ab7fdeb9c3c8f02d4498,plum,n,/plʌm/,quả mận,0
+6669ab7fdeb9c3c8f02d4499,lemon,n,/ˈlem.ən/,chanh vàng,0
+6669ab7fdeb9c3c8f02d449a,kiwi,n,/ˈkiː.wiː/,quả kiwi (dương đào),0
+6669ab7fdeb9c3c8f02d449b,raspberry,n,/ˈræz.ber.i/,quả mâm xôi,0
+6669ab7fdeb9c3c8f02d449c,blueberry,n,/ˈbluːˌbər.i/ /ˈbluːˌber.i/,quả việt quất,0
+6669ab7fdeb9c3c8f02d449d,soup,n,/suːp/,"món súp, món canh",0
+6669ab7fdeb9c3c8f02d449e,salad,n,/ˈsæl.əd/,"rau trộn, nộm rau",0
+6669ab7fdeb9c3c8f02d449f,bread,n,/ˈbred/,bánh mì,0
+6669ab7fdeb9c3c8f02d44a0,sausage,n,/ˈsɑː.sɪdʒ/,xúc xích,0
+6669ab7fdeb9c3c8f02d44a1,hot dog,n,/ˈhɑːt ˌdɑːɡ/,bánh mỳ kẹp xúc xích,0
+6669ab7fdeb9c3c8f02d44a2,bacon,n,/ˈbeɪ.kən/,thịt xông khói,0
+6669ab7fdeb9c3c8f02d44a3,ham,n,/hæm/,thịt giăm bông,0
+6669ab7fdeb9c3c8f02d44a4,egg,n,/eɡ/,trứng,0
+6669ab7fdeb9c3c8f02d44a5,pork,n,/pɔːrk/,thịt lợn,0
+6669ab7fdeb9c3c8f02d44a6,beef,n,/biːf/,thịt bò,0
+6669ab7fdeb9c3c8f02d44a7,chicken,n,/ˈtʃɪkɪn/,thịt gà,0
+6669ab7fdeb9c3c8f02d44a8,duck,n,/dʌk/,thịt vịt,0
+6669ab7fdeb9c3c8f02d44a9,lamb,n,/læm/,thịt cừu,0
+6669ab7fdeb9c3c8f02d44aa,ribs,n,/rɪbs/,sườn,0
+6669ab7fdeb9c3c8f02d44ab,seafood,n,/ˈsiːfuːd/,hải sản,0
+6669ab7fdeb9c3c8f02d44ac,salmon,n,/ˈsæmən/,cá hồi,0
+6669ab7fdeb9c3c8f02d44ad,tuna,n,/ˈtuːnə/,cá ngừ,0
+6669ab7fdeb9c3c8f02d44ae,shrimp,n,/ʃrɪmp/,tôm,0
+6669ab7fdeb9c3c8f02d44af,pizza,n,/ˈpiːt.sə/,bánh pizza,0
+6669ab7fdeb9c3c8f02d44b0,beefsteak,n,/ˈbiːfsteɪk/,bít tết,0
+6669ab7fdeb9c3c8f02d44b1,French fries,n,/ˈfrentʃ ˈfrɑɪz/,khoai tây chiên,0
+6669ab7fdeb9c3c8f02d44b2,hamburger,n,/ˈhæmˌbɝː.ɡɚ/,hăm bơ gơ,0
+6669ab7fdeb9c3c8f02d44b3,chicken nugget,n,/ˈtʃɪk.ɪn ˈnʌɡ.ɪt/,gà viên chiên,0
+6669ab7fdeb9c3c8f02d44b4,sandwich,n,/ˈsæn.wɪtʃ/,bánh mỳ kẹp,0
+6669ab7fdeb9c3c8f02d44b5,pancake,n,/ˈpæn.keɪk/,"bánh kếp, bánh xèo",0
+6669ab7fdeb9c3c8f02d44b6,noodle,n,/ˈnuːdl/,"mỳ, bún",0
+6669ab7fdeb9c3c8f02d44b7,pasta,n,/ˈpɑːstə/,mỳ Ý,0
+6669ab7fdeb9c3c8f02d44b8,cheese,n,/tʃiːz/,pho mát,0
+6669ab7fdeb9c3c8f02d44b9,hot pot,n,/ˈhɑːt ˌpɑːt/,lẩu,0
+6669ab7fdeb9c3c8f02d44ba,porridge,n,/ˈpɔːr.ɪdʒ/,cháo,0
+6669ab7fdeb9c3c8f02d44bb,water,n,/ˈwɔːtər/,nước,0
+6669ab7fdeb9c3c8f02d44bc,lemonade,n,/ˌleməˈneɪd/,nước chanh,0
+6669ab7fdeb9c3c8f02d44bd,juice,n,/dʒuːs/,nước ép hoa quả,0
+6669ab7fdeb9c3c8f02d44be,smoothie,n,/ˈsmuːði/,sinh tố,0
+6669ab7fdeb9c3c8f02d44bf,coffee,n,/ˈkɑː.fi/,cà phê,0
+6669ab7fdeb9c3c8f02d44c0,tea,n,/ˈtiː/,trà,0
+6669ab7fdeb9c3c8f02d44c1,milk,n,/mɪlk/,sữa,0
+6669ab7fdeb9c3c8f02d44c2,bubble tea,n,/ˌbʌbl ˈtiː/,trà sữa trân châu,0
+6669ab7fdeb9c3c8f02d44c3,hot chocolate,n,/ˌhɑːt ˈtʃɑːk.lət/,sô cô la nóng,0
+6669ab7fdeb9c3c8f02d44c4,beer,n,/bɪr/,bia,0
+6669ab7fdeb9c3c8f02d44c5,wine,n,/waɪn/,rượu,0
+6669ab7fdeb9c3c8f02d44c6,yogurt,n,/ˈjoʊ.ɡɚt/,sữa chua,0
+6669ab7fdeb9c3c8f02d44c7,ice cream,n,/ˈaɪs ˌkriːm/,kem,0
+6669ab7fdeb9c3c8f02d44c8,bean,n,/biːn/,hạt đậu,0
+6669ab7fdeb9c3c8f02d44c9,pea,n,/piː/,đậu Hà Lan,0
+6669ab7fdeb9c3c8f02d44ca,cabbage,n,/ˈkæb.ɪdʒ/,bắp cải,0
+6669ab7fdeb9c3c8f02d44cb,carrot,n,/ˈker.ət/,củ cà rốt,0
+6669ab7fdeb9c3c8f02d44cc,corn,n,/kɔːrn/,"ngô, bắp",0
+6669ab7fdeb9c3c8f02d44cd,cucumber,n,/ˈkjuː.kʌm.bɚ/,dưa chuột,0
+6669ab7fdeb9c3c8f02d44ce,tomato,n,/təˈmeɪ.t̬oʊ/,quả cà chua,0
+6669ab7fdeb9c3c8f02d44cf,garlic,n,/ˈɡɑːr.lɪk/,tỏi,0
+6669ab7fdeb9c3c8f02d44d0,onion,n,/ˈʌn.jən/,củ hành,0
+6669ab7fdeb9c3c8f02d44d1,spring onion,n,/ˌsprɪŋ ˈʌn.jən/,hành lá,0
+6669ab7fdeb9c3c8f02d44d2,ginger,n,/ˈdʒɪn.dʒɚ/,củ gừng,0
+6669ab7fdeb9c3c8f02d44d3,turmeric,n,/ˈtɜːrmərɪk/,củ nghệ,0
+6669ab7fdeb9c3c8f02d44d4,potato,n,/pəˈteɪ.t̬oʊ/,khoai tây,0
+6669ab7fdeb9c3c8f02d44d5,sweet potato,n,/ˌswiːt pəˈteɪ.t̬oʊ/,khoai lang,0
+6669ab7fdeb9c3c8f02d44d6,pumpkin,n,/ˈpʌmp.kɪn/,"bí ngô, bí đỏ",0
+6669ab7fdeb9c3c8f02d44d7,asparagus,n,/əˈsper.ə.ɡəs/,măng tây,0
+6669ab7fdeb9c3c8f02d44d8,turnip,n,/ˈtɝː.nɪp/,củ cải trắng,0
+6669ab7fdeb9c3c8f02d44d9,beet,n,/biːt/,"củ cải đường, củ dền",0
+6669ab7fdeb9c3c8f02d44da,cauliflower,n,/ˈkɑː.ləˌflaʊ.ɚ/,súp lơ,0
+6669ab7fdeb9c3c8f02d44db,broccoli,n,/ˈbrɑː.kəl.i/,bông cải xanh,0
+6669ab7fdeb9c3c8f02d44dc,eggplant,n,/ˈeɡ.plænt/,cà tím,0
+6669ab7fdeb9c3c8f02d44dd,celery,n,/ˈsel.ɚ.i/,cần tây,0
+6669ab7fdeb9c3c8f02d44de,leek,n,/liːk/,tỏi tây,0
+6669ab7fdeb9c3c8f02d44df,lettuce,n,/ˈlet̬.ɪs/,rau diếp,0
+6669ab7fdeb9c3c8f02d44e0,mushroom,n,/ˈmʌʃ.ruːm/,nấm,0
+6669ab7fdeb9c3c8f02d44e1,chili (pepper),n,/ˈtʃɪl·i (ˌpep·ər)/,ớt cay,0
+6669ab7fdeb9c3c8f02d44e2,bell pepper,n,/ˈbel pepər/,ớt chuông,0
+6669ab7fdeb9c3c8f02d44e3,spinach,n,/ˈspɪn.ɪtʃ/,rau chân vịt (bina),0
+6669ab7fdeb9c3c8f02d44e4,herb,n,/hɜːb/,rau thơm (nói chung),0
+6669ab7fdeb9c3c8f02d44e5,ingredient,n,/ɪnˈɡriːdiənt/,nguyên liệu,0
+6669ab7fdeb9c3c8f02d44e6,recipe,n,/ˈresəpi/,công thức nấu ăn,0
+6669ab7fdeb9c3c8f02d44e7,cooking oil,n,/ˈkʊkɪŋ ɔɪl/,dầu ăn,0
+6669ab7fdeb9c3c8f02d44e8,salt,n,/sɔːlt/,muối,0
+6669ab7fdeb9c3c8f02d44e9,sugar,n,/ˈʃʊɡər/,đường,0
+6669ab7fdeb9c3c8f02d44ea,vinegar,n,/ˈvɪnɪɡər/,dấm,0
+6669ab7fdeb9c3c8f02d44eb,chili sauce,n,/ˈtʃɪli sɔːs/,tương ớt,0
+6669ab7fdeb9c3c8f02d44ec,ketchup,n,/ˈketʃəp/,tương cà chua,0
+6669ab7fdeb9c3c8f02d44ed,raw,adj,/rɑː/,sống,0
+6669ab7fdeb9c3c8f02d44ee,wash,v,/wɑːʃ/,rửa,0
+6669ab7fdeb9c3c8f02d44ef,peel,v,/piːl/,bóc vỏ,0
+6669ab7fdeb9c3c8f02d44f0,chop,v,/tʃɑːp/,"chặt, bổ",0
+6669ab7fdeb9c3c8f02d44f1,chunk,"v, n",/tʃʌŋk/,"cắt khúc, khúc",0
+6669ab7fdeb9c3c8f02d44f2,fillet,v,/ˈfɪl.ɪt/,"róc xương, lạng thịt",0
+6669ab7fdeb9c3c8f02d44f3,slice,v,/slaɪs/,thái,0
+6669ab7fdeb9c3c8f02d44f4,dice,v,/daɪs/,thái hạt lựu,0
+6669ab7fdeb9c3c8f02d44f5,mince,v,/mɪns/,"băm, xay",0
+6669ab7fdeb9c3c8f02d44f6,mash,v,/mæʃ/,"nghiền, làm nát",0
+6669ab7fdeb9c3c8f02d44f7,blend,v,/blend/,trộn,0
+6669ab7fdeb9c3c8f02d44f8,boil,v,/bɔɪl/,"đun sôi, luộc",0
+6669ab7fdeb9c3c8f02d44f9,steam,v,/stiːm/,hấp,0
+6669ab7fdeb9c3c8f02d44fa,stew,v,/stuː/,"hầm, ninh nhừ",0
+6669ab7fdeb9c3c8f02d44fb,blanch,v,/blæntʃ/,chần thức ăn,0
+6669ab7fdeb9c3c8f02d44fc,stir,v,/stɝː/,"xào, quấy",0
+6669ab7fdeb9c3c8f02d44fd,fry,v,/fraɪ/,rán,0
+6669ab7fdeb9c3c8f02d44fe,bake,v,/beɪk/,nướng (bánh),0
+6669ab7fdeb9c3c8f02d44ff,roast,v,/roʊst/,"quay, nướng",0
+6669ab7fdeb9c3c8f02d4500,grill,v,/ɡrɪl/,nướng,0
+6669ab7fdeb9c3c8f02d4501,steep,v,/stiːp/,ngâm,0
+6669ab7fdeb9c3c8f02d4502,dip,v,/dɪp/,nhúng,0
+6669ab7fdeb9c3c8f02d4503,brew,v,/bruː/,"ủ (trà, rượu…)",0
+6669ab7fdeb9c3c8f02d4504,ferment,v,/fɚˈment/,lên men,0
+6669ab7fdeb9c3c8f02d4505,chill,v,/tʃɪl/,"làm tan giá, rã đông",0
+6669ab7fdeb9c3c8f02d4506,cool,v,/kuːl/,để nguội,0
+6669ab7fdeb9c3c8f02d4507,melt,v,/melt/,làm tan chảy,0
+6669ab7fdeb9c3c8f02d4508,flavor,v,/ˈfleɪ.vɚ/,tẩm gia vị,0
+6669ab7fdeb9c3c8f02d4509,marinate,v,/ˈmer.ə.neɪt/,ướp,0
+6669ab7fdeb9c3c8f02d450a,salt,v,/sɑːlt/,"ướp gia vị, rắc muối",0
+6669ab7fdeb9c3c8f02d450b,garnish,v,/ˈɡɑːr.nɪʃ/,"trang trí, bày biện",0
+6669ab7fdeb9c3c8f02d450c,press,v,/pres/,"ấn, ép",0
+6669ab7fdeb9c3c8f02d450d,refrigerate,v,/rɪˈfrɪdʒ.ə.reɪt/,ướp lạnh,0
+6669ab7fdeb9c3c8f02d450e,roll,v,/roʊl/,cuộn,0

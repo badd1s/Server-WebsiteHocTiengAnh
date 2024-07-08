@@ -1,0 +1,195 @@
+_id,vocabulary,type,pronunciation,meaning,__v
+6669abe4deb9c3c8f02d46ad,walk,v,/wɑːk/,đi bộ,0
+6669abe4deb9c3c8f02d46ae,jog,v,/dʒɑːɡ/,đi bộ nhanh (tập thể dục),0
+6669abe4deb9c3c8f02d46af,run,v,/rʌn/,chạy,0
+6669abe4deb9c3c8f02d46b0,tiptoe,v,/ˈtɪp.toʊ/,đi nhón chân,0
+6669abe4deb9c3c8f02d46b1,jump,v,/dʒʌmp/,nhảy,0
+6669abe4deb9c3c8f02d46b2,leap,v,/liːp/,"nhảy vọt, nhảy xa",0
+6669abe4deb9c3c8f02d46b3,stand,v,/stænd/,đứng,0
+6669abe4deb9c3c8f02d46b4,sit,v,/sɪt/,ngồi,0
+6669abe4deb9c3c8f02d46b5,lean,v,/liːn/,"dựa, tựa",0
+6669abe4deb9c3c8f02d46b6,wave,v,/weɪv/,vẫy tay,0
+6669abe4deb9c3c8f02d46b7,clap,v,/klæp/,vỗ tay,0
+6669abe4deb9c3c8f02d46b8,point,v,/pɔɪnt/,"chỉ, trỏ",0
+6669abe4deb9c3c8f02d46b9,catch,v,/kætʃ/,"bắt, đỡ",0
+6669abe4deb9c3c8f02d46ba,stretch,v,/stretʃ/,"vươn (vai..), ưỡn lưng",0
+6669abe4deb9c3c8f02d46bb,push,v,/pʊʃ/,đẩy,0
+6669abe4deb9c3c8f02d46bc,pull,v,/pʊl/,kéo,0
+6669abe4deb9c3c8f02d46bd,crawl,v,/krɑːl/,"bò, trườn",0
+6669abe4deb9c3c8f02d46be,bend,v,/bend/,"cúi, uốn cong",0
+6669abe4deb9c3c8f02d46bf,talk,v,/tɑːk/,"nói chuyện, trò chuyện",0
+6669abe4deb9c3c8f02d46c0,kiss,v,/kɪs/,hôn,0
+6669abe4deb9c3c8f02d46c1,laugh,v,/læf/,cười lớn,0
+6669abe4deb9c3c8f02d46c2,smile,v,/smaɪl/,cười,0
+6669abe4deb9c3c8f02d46c3,frown,v,/fraʊn/,nhíu mày,0
+6669abe4deb9c3c8f02d46c4,cry,v,/kraɪ/,khóc lóc,0
+6669abe4deb9c3c8f02d46c5,hit,v,/hɪt/,"đánh, va phải",0
+6669abe4deb9c3c8f02d46c6,punch,v,/pʌntʃ/,"đấm, thọi",0
+6669abe4deb9c3c8f02d46c7,kick,v,/kɪk/,đá,0
+6669abe4deb9c3c8f02d46c8,put down,v,/pʊt daʊn/,đặt xuống,0
+6669abe4deb9c3c8f02d46c9,march,v,/mɑːrtʃ/,"diễu hành, hành quân",0
+6669abe4deb9c3c8f02d46ca,drop,v,/drɑːp/,làm rơi,0
+6669abe4deb9c3c8f02d46cb,break,v,/breɪk/,"làm vỡ, bẻ gãy",0
+6669abe4deb9c3c8f02d46cc,drag,v,/dræɡ/,"lôi, kéo",0
+6669abe4deb9c3c8f02d46cd,carry,v,/ˈker.i/,"mang, vác",0
+6669abe4deb9c3c8f02d46ce,open,v,/ˈoʊ.pən/,mở ra,0
+6669abe4deb9c3c8f02d46cf,lie down,v,/laɪ daʊn/,"nằm xuống, ngả lưng",0
+6669abe4deb9c3c8f02d46d0,hold,v,/hoʊld/,"nắm, giữ",0
+6669abe4deb9c3c8f02d46d1,lift,v,/lɪft/,nâng lên,0
+6669abe4deb9c3c8f02d46d2,throw,v,/θroʊ/,"ném, quăng, vứt",0
+6669abe4deb9c3c8f02d46d3,trip,v,/trɪp/,"ngáng chân, vấp ngã",0
+6669abe4deb9c3c8f02d46d4,squat,v,/skwɑːt/,ngồi xổm,0
+6669abe4deb9c3c8f02d46d5,cartwheel,v,/ˈkɑːrt.wiːl/,nhào lộn,0
+6669abe4deb9c3c8f02d46d6,dive,v,/daɪv/,"nhảy lao xuống nước, lặn",0
+6669abe4deb9c3c8f02d46d7,dance,v,/dæns/,"nhảy múa, khiêu vũ",0
+6669abe4deb9c3c8f02d46d8,look,v,/lʊk/,"nhìn, ngắm",0
+6669abe4deb9c3c8f02d46d9,kneel,v,/niːl/,quỳ gối,0
+6669abe4deb9c3c8f02d46da,slip,v,/slɪp/,"trượt, tuột",0
+6669abe4deb9c3c8f02d46db,activity,n,/ækˈtɪv.ə.t̬i/,hoạt động,0
+6669abe4deb9c3c8f02d46dc,art gallery,n,/ˈɑːrt ˌɡæl.ɚ.i/,phòng trưng bày tranh,0
+6669abe4deb9c3c8f02d46dd,exhibition,n,/ˌek.səˈbɪʃ.ən/,"buổi triển lãm, trưng bày",0
+6669abe4deb9c3c8f02d46de,museum,n,/mjuːˈziː.əm/,bảo tàng,0
+6669abe4deb9c3c8f02d46df,concert,n,/ˈkɑːn.sɚt/,buổi hòa nhạc,0
+6669abe4deb9c3c8f02d46e0,ballet,n,/bælˈeɪ/,"ba lê, kịch múa",0
+6669abe4deb9c3c8f02d46e1,opera,n,/ˈɑː.pɚ.ə/,nhạc kịch,0
+6669abe4deb9c3c8f02d46e2,bar,n,/bɑːr/,"quán rượu, quầy bán rượu",0
+6669abe4deb9c3c8f02d46e3,pub,n,/pʌb/,nơi phục vụ đồ uống có cồn,0
+6669abe4deb9c3c8f02d46e4,nightclub,n,/ˈnaɪt.klʌb/,hộp đêm,0
+6669abe4deb9c3c8f02d46e5,restaurant,n,/ˈres.tə.rɑːnt/,nhà hàng ăn uống,0
+6669abe4deb9c3c8f02d46e6,cafè,n,/kæfˈeɪ/,quán cà phê,0
+6669abe4deb9c3c8f02d46e7,film,n,/fɪlm/,"phim, phim ảnh",0
+6669abe4deb9c3c8f02d46e8,cinema,n,/ˈsɪn.ə.mə/,rạp chiếu phim,0
+6669abe4deb9c3c8f02d46e9,theater,n,/ˈθiː.ə.t̬ɚ/,"nhà hát, rạp hát",0
+6669abe4deb9c3c8f02d46ea,circus,n,/ˈsɝː.kəs/,rạp xiếc,0
+6669abe4deb9c3c8f02d46eb,cosplay,n,/ˈkɑːz.pleɪ/,trò chơi hóa trang,0
+6669abe4deb9c3c8f02d46ec,stadium,n,/ˈsteɪ.di.əm/,sân vận động,0
+6669abe4deb9c3c8f02d46ed,zoo,n,/zuː/,sở thú,0
+6669abe4deb9c3c8f02d46ee,park,n,/pɑːrk/,công viên,0
+6669abe4deb9c3c8f02d46ef,handcraft,n,/ˈhænd.kræft/,"nghề thủ công, hoạt động thủ công",0
+6669abe4deb9c3c8f02d46f0,leisure centre,n,/ˈliː.ʒɚ ˌsen.t̬ɚ/,"khu vui chơi, trung tâm giải trí",0
+6669abe4deb9c3c8f02d46f1,bowling,n,/ˈboʊ.lɪŋ/,"trò chơi lăn bóng, bowling",0
+6669abe4deb9c3c8f02d46f2,monopoly,n,/məˈnɑː.pəl.i/,trò chơi cờ tỷ phú,0
+6669abe4deb9c3c8f02d46f3,puzzle,n,/ˈpʌz.əl/,trò chơi xếp hình,0
+6669abe4deb9c3c8f02d46f4,quiz,n,/kwɪz/,trò chơi đố vui,0
+6669abe4deb9c3c8f02d46f5,library,n,/ˈlaɪbreri/,thư viện,0
+6669abe4deb9c3c8f02d46f6,fishing,n,/ˈfɪʃɪŋ/,câu cá,0
+6669abe4deb9c3c8f02d46f7,gardening,n,/ˈɡɑːdnɪŋ/,làm vườn,0
+6669abe4deb9c3c8f02d46f8,hiking,n,/ˈhaɪkɪŋ/,leo núi,0
+6669abe4deb9c3c8f02d46f9,reading,n,/ˈriːdɪŋ/,đọc sách,0
+6669abe4deb9c3c8f02d46fa,music,n,/ˈmjuːzɪk/,âm nhạc,0
+6669abe4deb9c3c8f02d46fb,poetry,n,/ˈpəʊətri/,thơ ca,0
+6669abe4deb9c3c8f02d46fc,shopping,n,/ˈʃɑːpɪŋ/,mua sắm,0
+6669abe4deb9c3c8f02d46fd,painting,n,/ˈpeɪntɪŋ/,vẽ tranh,0
+6669abe4deb9c3c8f02d46fe,photography,n,/fəˈtɑːɡrəfi/,nhiếp ảnh,0
+6669abe4deb9c3c8f02d46ff,Second,n,/ˈsek.ənd/,Giây,0
+6669abe4deb9c3c8f02d4700,Minute,n,/ˈmɪnɪt/,Phút,0
+6669abe4deb9c3c8f02d4701,Hour,n,/aʊr/,Giờ,0
+6669abe4deb9c3c8f02d4702,Week,n,/wiːk/,Tuần,0
+6669abe4deb9c3c8f02d4703,Decade,n,/dekˈeɪd/,Thập kỷ,0
+6669abe4deb9c3c8f02d4704,Century,n,/ˈsentʃəri/,Thế kỷ,0
+6669abe4deb9c3c8f02d4705,Weekend,n,/ˈwiːkend/,Cuối tuần,0
+6669abe4deb9c3c8f02d4706,Month,n,/mʌnθ/,Tháng,0
+6669abe4deb9c3c8f02d4707,Year,n,/jɪr/,Năm,0
+6669abe4deb9c3c8f02d4708,Millennium,n,/mɪˈleniəm/,Thiên niên kỷ,0
+6669abe4deb9c3c8f02d4709,Morning,n,/ˈmɔːrnɪŋ/,Buổi sáng,0
+6669abe4deb9c3c8f02d470a,noon,n,/nuːn/,buổi trưa,0
+6669abe4deb9c3c8f02d470b,Afternoon,n,/ˌæftɚˈnuːn/,Buổi chiều,0
+6669abe4deb9c3c8f02d470c,Evening,n,/ˈiːvnɪŋ/,Buổi tối,0
+6669abe4deb9c3c8f02d470d,Midnight,n,/ˈmɪdnaɪt/,Nửa đêm,0
+6669abe4deb9c3c8f02d470e,Dusk,n,/dʌsk/,Hoàng hôn,0
+6669abe4deb9c3c8f02d470f,sunset,n,/ˈsʌnset/,Hoàng hôn,0
+6669abe4deb9c3c8f02d4710,Dawn,n,/dɑːn/,Bình minh,0
+6669abe4deb9c3c8f02d4711,sunrise,n,/ˈsʌnraɪz/,Bình minh,0
+6669abe4deb9c3c8f02d4712,Always,adv,/ˈɑːlweɪz/,Luôn luôn,0
+6669abe4deb9c3c8f02d4713,Often,adv,/ˈɒftən/,Thường xuyên,0
+6669abe4deb9c3c8f02d4714,Normally,adv,/ˈnɔːrməli/,Thường xuyên,0
+6669abe4deb9c3c8f02d4715,Usually,adv,/’ju:ʒəli/,Thường xuyên,0
+6669abe4deb9c3c8f02d4716,Sometimes,adv,/’sʌmtaimz/,"Thỉnh thoảng, đôi khi",0
+6669abe4deb9c3c8f02d4717,Occasionally,adv,/əˈkeɪʒnəli/,Thỉnh thoảng,0
+6669abe4deb9c3c8f02d4718,Rarely,adv,/ˈrerli/,Hiếm khi,0
+6669abe4deb9c3c8f02d4719,Seldom,adv,/’seldəm/,"Ít khi, hiếm khi",0
+6669abe4deb9c3c8f02d471a,Never,adv,/ˈnevɚ/,Không bao giờ,0
+6669abe4deb9c3c8f02d471b,January,n,/ˈdʒænjueri/,tháng 1,0
+6669abe4deb9c3c8f02d471c,February,n,/ˈfebrueri/,tháng 2,0
+6669abe4deb9c3c8f02d471d,March,n,/mɑːrtʃ/,tháng 3,0
+6669abe4deb9c3c8f02d471e,April,n,/ˈeɪprəl/,tháng 4,0
+6669abe4deb9c3c8f02d471f,May,n,/meɪ/,tháng 5,0
+6669abe4deb9c3c8f02d4720,June,n,/dʒuːn/,tháng 6,0
+6669abe4deb9c3c8f02d4721,July,n,/dʒuˈlaɪ/,tháng 7,0
+6669abe4deb9c3c8f02d4722,August,n,/ɔːˈɡʌst/,tháng 8,0
+6669abe4deb9c3c8f02d4723,September,n,/sepˈtembər/,tháng 9,0
+6669abe4deb9c3c8f02d4724,October,n,/ɑːkˈtəʊbər/,tháng 10,0
+6669abe4deb9c3c8f02d4725,November,n,/nəʊˈvembər/,tháng 11,0
+6669abe4deb9c3c8f02d4726,December,n,/dɪˈsembər/,tháng 12,0
+6669abe4deb9c3c8f02d4727,Spring,n,/sprɪŋ/,Mùa Xuân,0
+6669abe4deb9c3c8f02d4728,Summer,n,/ˈsʌmər/,Mùa Hạ,0
+6669abe4deb9c3c8f02d4729,Autumn / Fall,n,/ˈɔtəm/ – /fɔl/,Mùa Thu,0
+6669abe4deb9c3c8f02d472a,Winter,n,/ˈwɪntər/,Mùa Đông,0
+6669abe4deb9c3c8f02d472b,soccer,n,/ˈsɑːkər/,bóng đá,0
+6669abe4deb9c3c8f02d472c,football,n,/ˈfʊtbɔːl/,bóng đá,0
+6669abe4deb9c3c8f02d472d,American football,n,/əˌmerɪkən ˈfʊtbɔːl/,bóng bầu dục,0
+6669abe4deb9c3c8f02d472e,volleyball,n,/ˈvɑːlibɔːl/,bóng chuyền,0
+6669abe4deb9c3c8f02d472f,swimming,n,/ˈswɪmɪŋ/,bơi lội,0
+6669abe4deb9c3c8f02d4730,tennis,n,/ˈtenɪs/,quần vợt,0
+6669abe4deb9c3c8f02d4731,badminton,n,/ˈbædmɪntən/,cầu lông,0
+6669abe4deb9c3c8f02d4732,basketball,n,/ˈbæskɪtbɔːl/,bóng rổ,0
+6669abe4deb9c3c8f02d4733,table tennis,n,/ˈteɪbl tenɪs/,bóng bàn,0
+6669abe4deb9c3c8f02d4734,baseball,n,/ˈbeɪsbɔːl/,bóng chày,0
+6669abe4deb9c3c8f02d4735,athletics,n,/æθˈletɪks/,điền kinh,0
+6669abe4deb9c3c8f02d4736,martial arts,n,/ˌmɑːrʃl ˈɑːrt/,võ thuật,0
+6669abe4deb9c3c8f02d4737,archery,n,/ˈɑːrtʃəri/,bắn cung,0
+6669abe4deb9c3c8f02d4738,cycling,n,/ˈsaɪklɪŋ/,đua xe đạp,0
+6669abe4deb9c3c8f02d4739,boxing,n,/ˈbɑːksɪŋ/,quyền anh,0
+6669abe4deb9c3c8f02d473a,diving,n,/ˈdaɪvɪŋ/,"nhảy cầu, lặn",0
+6669abe4deb9c3c8f02d473b,skiing,n,/ˈskiːɪŋ/,trượt tuyết,0
+6669abe4deb9c3c8f02d473c,figure skating,n,/ˈfɪɡjər skeɪtɪŋ/,trượt băng nghệ thuật,0
+6669abe4deb9c3c8f02d473d,skateboarding,n,/ˈskeɪtbɔːrdɪŋ/,trượt ván,0
+6669abe4deb9c3c8f02d473e,billiards,n,/ˈbɪljərdz/,bi-a,0
+6669abe4deb9c3c8f02d473f,weightlifting,n,/ˈweɪtlɪftɪŋ/,cử tạ,0
+6669abe4deb9c3c8f02d4740,travel,v,/ˈtræv.əl/,đi du lịch,0
+6669abe4deb9c3c8f02d4741,depart,v,/dɪˈpɑːrt/,khởi hành,0
+6669abe4deb9c3c8f02d4742,leave,v,/liːv/,rời đi,0
+6669abe4deb9c3c8f02d4743,arrive,v,/əˈraɪv/,đến nơi,0
+6669abe4deb9c3c8f02d4744,airport,n,/ˈer.pɔːrt/,sân bay,0
+6669abe4deb9c3c8f02d4745,take off,v,/ˈteɪk ɔːf/,cất cánh,0
+6669abe4deb9c3c8f02d4746,land,v,/lænd/,hạ cánh,0
+6669abe4deb9c3c8f02d4747,check in,v,/ˈtʃek ɪn/,đăng ký phòng ở khách sạn,0
+6669abe4deb9c3c8f02d4748,check out,v,/ˈtʃek aʊt/,trả phòng khách sạn,0
+6669abe4deb9c3c8f02d4749,visit,v,/ˈvɪz.ɪt/,thăm viếng,0
+6669abe4deb9c3c8f02d474a,destination,n,/ˌdes.təˈneɪ.ʃən/,điểm đến,0
+6669abe4deb9c3c8f02d474b,passenger,n,/ˈpæs.ən.dʒɚ/,hành khách,0
+6669abe4deb9c3c8f02d474c,tourist,n,/ˈtʊrɪst/,khách du lịch,0
+6669abe4deb9c3c8f02d474d,cruise,n,/kruːz/,chuyến đi chơi trên biển,0
+6669abe4deb9c3c8f02d474e,route,n,/ruːt/ /raʊt/,lộ trình,0
+6669abe4deb9c3c8f02d474f,tour,n,/tʊr/,chuyến đi du lịch,0
+6669abe4deb9c3c8f02d4750,trip,n,/trɪp/,"cuộc du ngoạn, dạo chơi",0
+6669abe4deb9c3c8f02d4751,journey,n,/ˈdʒɝː.ni/,hành trình,0
+6669abe4deb9c3c8f02d4752,passport,n,/ˈpæspɔːrt/,hộ chiếu,0
+6669abe4deb9c3c8f02d4753,ticket,n,/ˈtɪkɪt/,vé,0
+6669abe4deb9c3c8f02d4754,visa,n,/ˈviːzə/,thị thực,0
+6669abe4deb9c3c8f02d4755,luggage,n,/ˈlʌɡɪdʒ/,hành lý,0
+6669abe4deb9c3c8f02d4756,automobile,n,/ˈɔːtəməbiːl/,xe ô tô,0
+6669abe4deb9c3c8f02d4757,car,n,/kɑːr/,xe ô tô,0
+6669abe4deb9c3c8f02d4758,taxi,n,/ˈtæk.si/,xe taxi,0
+6669abe4deb9c3c8f02d4759,bus,n,/bʌs/,xe buýt,0
+6669abe4deb9c3c8f02d475a,bicycle,n,/ˈbaɪ.sə.kəl/,xe đạp,0
+6669abe4deb9c3c8f02d475b,bike,n,/baɪk/,xe đạp,0
+6669abe4deb9c3c8f02d475c,motorcycle,n,/ˈməʊtərsaɪkl/,xe máy,0
+6669abe4deb9c3c8f02d475d,motorbike,n,/ˈməʊtərbaɪk/,xe máy,0
+6669abe4deb9c3c8f02d475e,airplane,n,/ˈer.pleɪn/,máy bay,0
+6669abe4deb9c3c8f02d475f,plane,n,/pleɪn/,máy bay,0
+6669abe4deb9c3c8f02d4760,helicopter,n,/ˈhel.əˌkɑːp.tɚ/,trực thăng,0
+6669abe4deb9c3c8f02d4761,train,n,/treɪn/,tàu hỏa,0
+6669abe4deb9c3c8f02d4762,subway,n,/ˈsʌbweɪ/,tàu điện ngầm,0
+6669abe4deb9c3c8f02d4763,boat,n,/boʊt/,thuyền,0
+6669abe4deb9c3c8f02d4764,ship,n,/ʃɪp/,tàu,0
+6669abe4deb9c3c8f02d4765,van,n,/væn/,xe van,0
+6669abe4deb9c3c8f02d4766,police car,n,/pəˈliːs ˌkɑːr/,xe cảnh sát,0
+6669abe4deb9c3c8f02d4767,ambulance,n,/ˈæm.bjə.ləns/,xe cứu thương,0
+6669abe4deb9c3c8f02d4768,scooter,n,/ˈskuːtər/,xe tay ga,0
+6669abe4deb9c3c8f02d4769,truck,n,/trʌk/,xe tải,0
+6669abe4deb9c3c8f02d476a,yacht,n,/jɑːt/,du thuyền,0
+6669abe4deb9c3c8f02d476b,canoe,n,/kəˈnuː/,ca nô,0
+6669abe4deb9c3c8f02d476c,fire engine,n,/ˈfaɪər endʒɪn/,xe cứu hỏa,0
+6669abe4deb9c3c8f02d476d,hot-air balloon,n,/ˌhɑːt ˈer bəluːn/,khinh khí cầu,0
+6669abe4deb9c3c8f02d476e,submarine,n,/ˌsʌbməˈriːn/,tàu ngầm,0

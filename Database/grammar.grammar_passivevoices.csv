@@ -1,0 +1,13 @@
+_id,name,mean,use_1,use_2,use_3,use_4,use_5,use_6,classification_1,classification_2,classification_3,classification_4,classification_5,classification_6,structure_1,structure_2,structure_3,structure_4,structure_5,structure_6,structure_7,example_1,example_2,example_3,example_4,example_5,sign_1,sign_2,sign_3,sign_4,sign_5,sign_6,__v
+666971d284e200443dd144f4,Câu chủ động (active),là câu có chủ ngữ là người hoặc vật thực hiện hành động (ai làm gì),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+666971d284e200443dd144f5,Câu bị động (passive),là câu có chủ ngữ là người hoặc vật chịu tác động của hành động (ai bị/được làm gì). Mục đích câu bị động dùng để nhấn mạnh đến đối tượng chịu tác động của hành động đó.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+666971d284e200443dd144f6,Hiện tại đơn,,,,,,,,,,,,,,S + V(s/es) + O,S + am/is/are + V3/ed + (by O),,,,,,She writes a letter.,A letter is written by her.,,,,,,,,,,0
+666971d284e200443dd144f7,Hiện tại tiếp diễn,,,,,,,,,,,,,,S + am/is/are + V-ing + O,S + am/is/are + being + V3/ed + (by O),,,,,,She is writing a letter.,A letter is being written by her.,,,,,,,,,,0
+666971d284e200443dd144f8,Hiện tại hoàn thành,,,,,,,,,,,,,,S + has/have + V3/ed + O,S + has/have + been + V3/ed + (by O),,,,,,She has written a letter.,A letter has been written by her.,,,,,,,,,,0
+666971d284e200443dd144f9,Quá khứ đơn,,,,,,,,,,,,,,S + V2/ed + O,S + was/were + V3/ed + (by O),,,,,,She wrote a letter.,A letter was written by her.,,,,,,,,,,0
+666971d284e200443dd144fa,Quá khứ tiếp diễn,,,,,,,,,,,,,,S + was/were + V-ing + O,S + was/were + being + V3/ed + (by O),,,,,,She was writing a letter.,A letter was being written by her.,,,,,,,,,,0
+666971d284e200443dd144fb,Quá khứ hoàn thành,,,,,,,,,,,,,,S + had + V3/ed + O,S + had been + V3/ed + (by O),,,,,,She had written a letter.,A letter had been written by her.,,,,,,,,,,0
+666971d284e200443dd144fc,Tương lai đơn,,,,,,,,,,,,,,S + will + V + O,S + will be + V3/ed + (by O),,,,,,She will write a letter.,A letter will be written by her.,,,,,,,,,,0
+666971d284e200443dd144fd,Tương lai hoàn thành,,,,,,,,,,,,,,S + will have + V3/ed + O,S + will have been + V3/ed + (by O),,,,,,She will have written a letter.,A letter will have been written by her.,,,,,,,,,,0
+666971d284e200443dd144fe,Tương lai gần,,,,,,,,,,,,,,S + is/am/are + going to + V + O,S + is/am/are + going to be + V3/ed + (by O),,,,,,She is going to write a letter.,A letter is going to be written by her.,,,,,,,,,,0
+666971d284e200443dd144ff,Động từ khuyết thiếu,,,,,,,,,,,,,,S + modal verb + V + O,S + modal verb + be + V3/ed + (by O),,,,,,She can write a letter.,A letter can be written by her.,,,,,,,,,,0

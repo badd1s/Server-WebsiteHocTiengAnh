@@ -1,0 +1,237 @@
+_id,vocabulary,type,pronunciation,meaning,__v
+6669b47edeb9c3c8f02d48fa,family,n,/ˈfæm.əl.i/,gia đình,0
+6669b47edeb9c3c8f02d48fb,mother,n,/ˈmaðə/,mẹ,0
+6669b47edeb9c3c8f02d48fc,father,n,/ˈfɑː.ðɚ/,"bố, cha",0
+6669b47edeb9c3c8f02d48fd,parent,n,/ˈpeərənt/,bố hoặc mẹ,0
+6669b47edeb9c3c8f02d48fe,parents,n,,"bố mẹ, phụ huynh",0
+6669b47edeb9c3c8f02d48ff,daughter,n,/ˈdɑː.t̬ɚ/,con gái,0
+6669b47edeb9c3c8f02d4900,son,n,/san/,con trai,0
+6669b47edeb9c3c8f02d4901,sibling,n,/ˈsibliŋ/,anh chị em ruột,0
+6669b47edeb9c3c8f02d4902,sister,n,/ˈsistə/,"chị, em gái",0
+6669b47edeb9c3c8f02d4903,brother,n,/ˈbrʌð.ɚ/,"anh, em trai",0
+6669b47edeb9c3c8f02d4904,grandmother,n,/ˈɡræn.mʌð.ɚ/,bà nội (ngoại),0
+6669b47edeb9c3c8f02d4905,grandfather,n,/ˈɡræn.fɑː.ðɚ/,ông nội (ngoại),0
+6669b47edeb9c3c8f02d4906,grandparent,n,/ˈɡræn.per.ənt/,"ông hoặc bà,",0
+6669b47edeb9c3c8f02d4907,grandparents,n,,ông bà,0
+6669b47edeb9c3c8f02d4908,relative,n,/ˈrelətiv/,họ hàng,0
+6669b47edeb9c3c8f02d4909,aunt,n,/ænt/,"cô, dì",0
+6669b47edeb9c3c8f02d490a,uncle,n,/ˈaŋkl/,"chú, bác, cậu, dượng",0
+6669b47edeb9c3c8f02d490b,cousin,n,/ˈkʌz.ən/,anh em họ,0
+6669b47edeb9c3c8f02d490c,nephew,n,/ˈnefjuː/,cháu trai (con của anh chị em),0
+6669b47edeb9c3c8f02d490d,niece,n,/niːs/,cháu gái (con của anh chị em),0
+6669b47edeb9c3c8f02d490e,wife,n,/waif/,vợ,0
+6669b47edeb9c3c8f02d490f,husband,n,/ˈhʌz.bənd/,chồng,0
+6669b47edeb9c3c8f02d4910,head,n,/hed/,đầu,0
+6669b47edeb9c3c8f02d4911,hair,n,/her/,tóc,0
+6669b47edeb9c3c8f02d4912,face,n,/feɪs/,gương mặt,0
+6669b47edeb9c3c8f02d4913,forehead,n,/ˈfɑː.rɪd/,trán,0
+6669b47edeb9c3c8f02d4914,eyebrow,n,/ˈaɪ.braʊ/,lông mày,0
+6669b47edeb9c3c8f02d4915,eye,n,/aɪ/,mắt,0
+6669b47edeb9c3c8f02d4916,eyelash,n,/ˈaɪ.læʃ/,lông mi,0
+6669b47edeb9c3c8f02d4917,nose,n,/nəʊz/,mũi,0
+6669b47edeb9c3c8f02d4918,ear,n,/ɪr/,tai,0
+6669b47edeb9c3c8f02d4919,cheek,n,/tʃiːk/,má,0
+6669b47edeb9c3c8f02d491a,beard,n,/bɪrd/,râu,0
+6669b47edeb9c3c8f02d491b,mouth,n,/maʊθ/,miệng,0
+6669b47edeb9c3c8f02d491c,lip,n,/lɪp/,môi,0
+6669b47edeb9c3c8f02d491d,tooth (teeth),n," /tuːθ/,  /tiːθ/",răng,0
+6669b47edeb9c3c8f02d491e,gum,n,/ɡʌm/,"nướu, lợi",0
+6669b47edeb9c3c8f02d491f,jaw,n,/dʒɑː/,"hàm, quai hàm",0
+6669b47edeb9c3c8f02d4920,chin,n,/tʃɪn/,cằm,0
+6669b47edeb9c3c8f02d4921,neck,n,/nek/,cổ,0
+6669b47edeb9c3c8f02d4922,chest,n,/tʃest/,ngực (chung),0
+6669b47edeb9c3c8f02d4923,back,n,/bæk/,lưng,0
+6669b47edeb9c3c8f02d4924,belly,n,/ˈbeli/,bụng,0
+6669b47edeb9c3c8f02d4925,hip,n,/hɪp/,hông,0
+6669b47edeb9c3c8f02d4926,arm,n,/ɑːrm/,cánh tay,0
+6669b47edeb9c3c8f02d4927,armpit,n,/ˈɑːrm.pɪt/,nách,0
+6669b47edeb9c3c8f02d4928,forearm,n,/ˈfɔːr.ɑːrm/,cẳng tay,0
+6669b47edeb9c3c8f02d4929,elbow,n,/ˈel.boʊ/,khuỷu tay,0
+6669b47edeb9c3c8f02d492a,finger,n,/ˈfɪŋ.ɡɚ/,ngón tay,0
+6669b47edeb9c3c8f02d492b,knuckle,n,/ˈnʌk.əl/,khớp đốt ngón tay,0
+6669b47edeb9c3c8f02d492c,leg,n,/leɡ/,chân,0
+6669b47edeb9c3c8f02d492d,knee,n,/niː/,đầu gối,0
+6669b47edeb9c3c8f02d492e,ankle,n,/ˈæŋ.kəl/,mắt cá chân,0
+6669b47edeb9c3c8f02d492f,heel,n,/hiːl/,gót chân,0
+6669b47edeb9c3c8f02d4930,active,adj,/ˈæk.tɪv/,"năng nổ, lanh lợi",0
+6669b47edeb9c3c8f02d4931,alert,adj,/əˈlɝːt/,"tỉnh táo, cảnh giác",0
+6669b47edeb9c3c8f02d4932,ambitious,adj,/æmˈbɪʃ.əs/,tham vọng,0
+6669b47edeb9c3c8f02d4933,attentive,adj,/əˈten.t̬ɪv/,"chăm chú, chú tâm",0
+6669b47edeb9c3c8f02d4934,bold,adj,/boʊld/,"táo bạo, mạo hiểm",0
+6669b47edeb9c3c8f02d4935,brave,adj,/breɪv/,"dũng cảm, gan dạ",0
+6669b47edeb9c3c8f02d4936,careful,adj,/ˈker.fəl/,"cẩn thận, thận trọng",0
+6669b47edeb9c3c8f02d4937,careless,adj,/ˈker.ləs/,"bất cẩn, cẩu thả",0
+6669b47edeb9c3c8f02d4938,cautious,adj,/ˈkɑː.ʃəs/,"thận trọng, cẩn thận",0
+6669b47edeb9c3c8f02d4939,conscientious,adj,/ˌkɑːn.ʃiˈen.ʃəs/,"chu đáo, tỉ mỉ",0
+6669b47edeb9c3c8f02d493a,courageous,adj,/kəˈreɪ.dʒəs/,can đảm,0
+6669b47edeb9c3c8f02d493b,crafty,adj,/ˈkræf.ti/,"láu cá, xảo quyệt",0
+6669b47edeb9c3c8f02d493c,cunning,adj,/ˈkʌn.ɪŋ/,"xảo trá, khôn lỏi",0
+6669b47edeb9c3c8f02d493d,deceitful,adj,/dɪˈsiːt.fəl/,dối trá,0
+6669b47edeb9c3c8f02d493e,decent,adj,/ˈdiː.sənt/,"lịch sự, tao nhã",0
+6669b47edeb9c3c8f02d493f,dependable,adj,/dɪˈpen.də.bəl/,đáng tin cậy,0
+6669b47edeb9c3c8f02d4940,determined,adj,/dɪˈtɝː.mɪnd/,quyết tâm,0
+6669b47edeb9c3c8f02d4941,devoted,adj,/dɪˈvoʊ.t̬ɪd/,"hết lòng, tận tâm, tận tụy",0
+6669b47edeb9c3c8f02d4942,diligent,adj,/ˈdɪl.ə.dʒənt/,"siêng năng, cần cù",0
+6669b47edeb9c3c8f02d4943,disciplined,adj,/ˈdɪs.ə.plɪnd/,có tính kỷ luật,0
+6669b47edeb9c3c8f02d4944,dishonest,adj,/dɪˈsɑː.nɪst/,"bất lương, dối trá",0
+6669b47edeb9c3c8f02d4945,disloyal,adj,/ˌdɪsˈlɔɪ.əl/,"phản trắc, phản bội",0
+6669b47edeb9c3c8f02d4946,energetic,adj,/ˌen.ɚˈdʒet̬.ɪk/,giàu năng lượng,0
+6669b47edeb9c3c8f02d4947,fair,adj,/fer/,ngay thẳng,0
+6669b47edeb9c3c8f02d4948,faithful,adj,/ˈfeɪθ.fəl/,"trung thành, chung thủy",0
+6669b47edeb9c3c8f02d4949,fearless,adj,/ˈfɪr.ləs/,bạo dạn,0
+6669b47edeb9c3c8f02d494a,forgetful,adj,/fɚˈɡet.fəl/,hay quên,0
+6669b47edeb9c3c8f02d494b,hard-headed,adj,/ˌhɑːrdˈhed.ɪd/,"cứng đầu, ương ngạnh",0
+6669b47edeb9c3c8f02d494c,hardworking,adj,/ˈhɑrdˈwɜr·kɪŋ/,"chăm chỉ, chịu khó",0
+6669b47edeb9c3c8f02d494d,hardy,adj,/ˈhɑːr.di/,"táo bạo, gan dạ",0
+6669b47edeb9c3c8f02d494e,honest,adj,/ˈɑː.nɪst/,"chân thật, trung thành",0
+6669b47edeb9c3c8f02d494f,idle,adj,/ˈaɪ.dəl/,"nhàn rỗi, lười nhác",0
+6669b47edeb9c3c8f02d4950,immature,adj,/ˌɪm.əˈtʊr/,"non nớt, thiếu chín chắn",0
+6669b47edeb9c3c8f02d4951,impartial,adj,/ɪmˈpɑːr.ʃəl/,"trung lập, ngay thẳng",0
+6669b47edeb9c3c8f02d4952,inattentive,adj,/ˌɪn.əˈten.t̬ɪv/,"lơ đễnh, thiếu tập trung",0
+6669b47edeb9c3c8f02d4953,independent,adj,/ˌɪn.dɪˈpen.dənt/,tự lập,0
+6669b47edeb9c3c8f02d4954,inert,adj,/ˌɪnˈɝːt/,"trì trệ, chậm chạp",0
+6669b47edeb9c3c8f02d4955,insightful,adj,/ˈɪn.saɪt.fəl/,"sâu sắc, sáng suốt",0
+6669b47edeb9c3c8f02d4956,insincere,adj,/ˌɪn.sɪnˈsɪr/,"không thành thực, giả dối",0
+6669b47edeb9c3c8f02d4957,irrational,adj,/ɪˈræʃ.ən.əl/,không hợp lý,0
+6669b47edeb9c3c8f02d4958,irresponsible,adj,/ˌɪr.əˈspɑːn.sə.bəl/,thiếu trách nhiệm,0
+6669b47edeb9c3c8f02d4959,lazy,adj,/ˈleɪ.zi/,lười biếng,0
+6669b47edeb9c3c8f02d495a,level-headed,adj,/ˌlev.əlˈhed.ɪd/,"bình tĩnh, điềm đạm",0
+6669b47edeb9c3c8f02d495b,loyal,adj,/ˈlɔɪ.əl/,"trung thành, trung kiên",0
+6669b47edeb9c3c8f02d495c,mature,adj,/məˈtʊr/,"trưởng thành, chững chạc",0
+6669b47edeb9c3c8f02d495d,methodical,adj,/məˈθɑː.dɪ.kəl/,"ngăn nắp, cẩn thận",0
+6669b47edeb9c3c8f02d495e,naive,adj,/naɪˈiːv/,ngây thơ,0
+6669b47edeb9c3c8f02d495f,objective,adj,/əbˈdʒek.tɪv/,khách quan,0
+6669b47edeb9c3c8f02d4960,observant,adj,/əbˈzɝː.vənt/,"tinh ý, hay quan sát",0
+6669b47edeb9c3c8f02d4961,opinionated,adj,/əˈpɪn.jə.neɪ.t̬ɪd/,"cứng đầu, ngoan cố",0
+6669b47edeb9c3c8f02d4962,organized,adj,/ˈɔːr.ɡən.aɪzd/,"có trật tự, ngăn nắp",0
+6669b47edeb9c3c8f02d4963,passive,adj,/ˈpæs.ɪv/,nhiệt huyết,0
+6669b47edeb9c3c8f02d4964,perceptive,adj,/pɚˈsep.tɪv/,"mẫn cảm, sâu sắc",0
+6669b47edeb9c3c8f02d4965,persevering,adj,/ˌpɝː.səˈvɪr.ɪŋ/,"kiên nhẫn, bền bỉ",0
+6669b47edeb9c3c8f02d4966,practical,adj,/ˈpræk.tɪ.kəl/,"thực tế, thực tiễn",0
+6669b47edeb9c3c8f02d4967,prudent,adj,/ˈpruː.dənt/,"thận trọng, khôn ngoan",0
+6669b47edeb9c3c8f02d4968,quick,adj,/kwɪk/,nhanh nhẹn,0
+6669b47edeb9c3c8f02d4969,rational,adj,/ˈræʃ.ən.əl/,có lý trí,0
+6669b47edeb9c3c8f02d496a,reasonable,adj,/ˈriː.zən.ə.bəl/,biết điều,0
+6669b47edeb9c3c8f02d496b,reckless,adj,/ˈrek.ləs/,"liều lĩnh, táo bạo",0
+6669b47edeb9c3c8f02d496c,reliable,adj,/rɪˈlaɪ.ə.bəl/,đáng tin tưởng,0
+6669b47edeb9c3c8f02d496d,resolute,adj,/ˈrez.ə.luːt/,cương quyết,0
+6669b47edeb9c3c8f02d496e,responsible,adj,/rɪˈspɑːn.sə.bəl/,có trách nhiệm,0
+6669b47edeb9c3c8f02d496f,scrupulous,adj,/ˈskruː.pjə.ləs/,"kĩ lưỡng, tỉ mỉ, thận trọng",0
+6669b47edeb9c3c8f02d4970,sensible,adj,/ˈsen.sə.bəl/,"khôn ngoan, có óc phán xét",0
+6669b47edeb9c3c8f02d4971,shallow,adj,/ˈʃæl.oʊ/,nông cạn,0
+6669b47edeb9c3c8f02d4972,shrewd,adj,/ʃruːd/,khôn ngoan,0
+6669b47edeb9c3c8f02d4973,sincere,adj,/sɪnˈsɪr/,chân thành,0
+6669b47edeb9c3c8f02d4974,slow,adj,/sloʊ/,chậm chạp,0
+6669b47edeb9c3c8f02d4975,sluggish,adj,/ˈslʌɡ.ɪʃ/,"uể oải, lờ đờ",0
+6669b47edeb9c3c8f02d4976,sly,adj,/slaɪ/,"ranh mãnh, quỷ quyệt",0
+6669b47edeb9c3c8f02d4977,strong,adj,/strɑːŋ/,"mạnh mẽ, đanh thép",0
+6669b47edeb9c3c8f02d4978,strong-minded,adj,/ˌstrɑːŋˈmaɪn.dɪd/,"cứng cỏi, kiên quyết",0
+6669b47edeb9c3c8f02d4979,strong-willed,adj,/ˌstrɑːŋˈwɪld/,cứng cỏi,0
+6669b47edeb9c3c8f02d497a,stubborn,adj,/ˈstʌb.ɚn/,"bướng bỉnh, ngang ngạnh",0
+6669b47edeb9c3c8f02d497b,superficial,adj,/ˌsuː.pɚˈfɪʃ.əl/,"hời hợt, nông cạn",0
+6669b47edeb9c3c8f02d497c,superstitious,adj,/ˌsuː.pɚˈstɪʃ.əs/,mê tín,0
+6669b47edeb9c3c8f02d497d,thorough,adj,/ˈθɝː.ə/ /ˈθɝː.oʊ/,"kỹ lưỡng, thấu đáo",0
+6669b47edeb9c3c8f02d497e,timid,adj,/ˈtɪm.ɪd/,"rụt rè, bẽn lẽn",0
+6669b47edeb9c3c8f02d497f,tough,adj,/tʌf/,cứng rắn,0
+6669b47edeb9c3c8f02d4980,treacherous,adj,/ˈtretʃ.ɚ.əs/,bội bạc,0
+6669b47edeb9c3c8f02d4981,trustworthy,adj,/ˈtrʌstˌwɝː.ði/,đáng tin,0
+6669b47edeb9c3c8f02d4982,truthful,adj,/ˈtruːθ.fəl/,"thật thà, chân thật",0
+6669b47edeb9c3c8f02d4983,unbiased,adj,/ʌnˈbaɪəst/,không thiên vị,0
+6669b47edeb9c3c8f02d4984,unpredictable,adj,/ˌʌn.prɪˈdɪk.tə.bəl/,"khó đoán, khôn lường",0
+6669b47edeb9c3c8f02d4985,unreasonable,adj,/ʌnˈriː.zən.ə.bəl/,"vô lý, quá đáng",0
+6669b47edeb9c3c8f02d4986,unreliable,adj,/ˌʌn.rɪˈlaɪə.bəl/,không đáng tin,0
+6669b47edeb9c3c8f02d4987,unscrupulous,adj,/ʌnˈskruː.pjə.ləs/,cẩu thả,0
+6669b47edeb9c3c8f02d4988,vigorous,adj,/ˈvɪɡ.ɚ.əs/,"mạnh mẽ, sôi nổi",0
+6669b47edeb9c3c8f02d4989,weak,adj,/wiːk/,yếu đuối,0
+6669b47edeb9c3c8f02d498a,annoyed,adj,/əˈnɔɪd/,"khó chịu, bực bội, bị làm phiền",0
+6669b47edeb9c3c8f02d498b,angry,adj,/ˈæŋɡri/,tức giận,0
+6669b47edeb9c3c8f02d498c,mad,adj,/mæd/,cực kì giận,0
+6669b47edeb9c3c8f02d498d,worried,adj,/ˈwɜːrid/,lo lắng,0
+6669b47edeb9c3c8f02d498e,happy,adj,/ˈhæpi/,vui vẻ,0
+6669b47edeb9c3c8f02d498f,sad,adj,/sæd/,buồn sầu,0
+6669b47edeb9c3c8f02d4990,moody,adj,/ˈmuːdi/,buồn bực,0
+6669b47edeb9c3c8f02d4991,anxious,adj,/ˈæŋk.ʃəs/,"lo âu, bồn chồn",0
+6669b47edeb9c3c8f02d4992,grateful,adj,/ˈɡreɪtfl/,biết ơn,0
+6669b47edeb9c3c8f02d4993,emotional,adj,/ɪˈməʊʃənl/,xúc động,0
+6669b47edeb9c3c8f02d4994,hungry,adj,/ˈhʌŋɡri/,đói,0
+6669b47edeb9c3c8f02d4995,thirsty,adj,/ˈθɜːrsti/,khát,0
+6669b47edeb9c3c8f02d4996,astonished,adj,/əˈstɑː.nɪʃt/,kinh ngạc,0
+6669b47edeb9c3c8f02d4997,uncomfortable,adj,/ʌnˈkʌmftəbl/,không thoải mái,0
+6669b47edeb9c3c8f02d4998,wonderful,adj,/ˈwʌndərfl/,tuyệt vời,0
+6669b47edeb9c3c8f02d4999,bored,adj,/bɔːrd/,"buồn chán, tẻ nhạt",0
+6669b47edeb9c3c8f02d499a,tired,adj,/ˈtaɪərd/,mệt mỏi,0
+6669b47edeb9c3c8f02d499b,terrible,adj,/ˈterəbl/,tệ hại,0
+6669b47edeb9c3c8f02d499c,calm,adj,/kɑːm/,bình tĩnh,0
+6669b47edeb9c3c8f02d499d,unhappy,adj,/ʌnˈhæpi/,không vui,0
+6669b47edeb9c3c8f02d499e,upset,adj,/ˌʌpˈset/,buồn bực,0
+6669b47edeb9c3c8f02d499f,delighted,adj,/dɪˈlaɪ.t̬ɪd/,"vui mừng, mừng rỡ",0
+6669b47edeb9c3c8f02d49a0,desperate,adj,/ˈdes.pɚ.ət/,"tuyệt vọng, chán trường",0
+6669b47edeb9c3c8f02d49a1,disturbed,adj,/dɪˈstɝːbd/,"bối rối, lúng túng",0
+6669b47edeb9c3c8f02d49a2,doubtful,adj,/ˈdaʊt.fəl/,"nghi hoặc, hoài nghi",0
+6669b47edeb9c3c8f02d49a3,down,adj,/daʊn/,"nản lòng, chán nản",0
+6669b47edeb9c3c8f02d49a4,drained,adj,/dreɪnd/,kiệt sức,0
+6669b47edeb9c3c8f02d49a5,elated,adj,/iˈleɪ.t̬ɪd/,"phẩn khởi, hân hoan",0
+6669b47edeb9c3c8f02d49a6,embarrassed,adj,/ɪmˈber.əst/,"xấu hổ, ngại ngùng",0
+6669b47edeb9c3c8f02d49a7,empathetic,adj,/ˌem.pəˈθet̬.ɪk/,"đồng cảm, xót xa",0
+6669b47edeb9c3c8f02d49a8,enlightened,adj,/ɪnˈlaɪ.t̬ənd/,"được làm sáng tỏ, được thông suốt",0
+6669b47edeb9c3c8f02d49a9,jealous,adj,/ˈdʒeləs/,ghen tị,0
+6669b47edeb9c3c8f02d49aa,envious,adj,/ˈen.vi.əs/,"ghen tị, độ kỵ",0
+6669b47edeb9c3c8f02d49ab,excited,adj,/ɪkˈsaɪ.t̬ɪd/,"hưng phấn, sôi nổi",0
+6669b47edeb9c3c8f02d49ac,excluded,adj,/ɪkˈskluːd/,"bị bỏ rơi, cảm giác lạc lõng",0
+6669b47edeb9c3c8f02d49ad,exhausted,adj,/ɪɡˈzɑː.stɪd/,mệt lử,0
+6669b47edeb9c3c8f02d49ae,foolish,adj,/ˈfuː.lɪʃ/,dại dột,0
+6669b47edeb9c3c8f02d49af,frustrated,adj,/ˈfrʌs.treɪ.t̬ɪd/,"nản lòng, nản chí",0
+6669b47edeb9c3c8f02d49b0,furious,adj,/ˈfʊr.i.əs/,"giận dữ, điên tiết",0
+6669b47edeb9c3c8f02d49b1,giddy,adj,/ˈɡɪd.i/,"chóng mặt, choáng váng",0
+6669b47edeb9c3c8f02d49b2,glad,adj,/ɡlæd/,vui sướng,0
+6669b47edeb9c3c8f02d49b3,gleeful,adj,/ˈɡliː.fəl/,"hân hoan, mừng rỡ",0
+6669b47edeb9c3c8f02d49b4,guarded,adj,/ˈɡɑːr.dɪd/,"thận trọng, ý tứ",0
+6669b47edeb9c3c8f02d49b5,guilty,adj,/ˈɡɪl.ti/,"mặc cảm, cảm thấy tội lỗi",0
+6669b47edeb9c3c8f02d49b6,hesitant,adj,/ˈhez.ə.tənt/,"do dự, ngập ngừng",0
+6669b47edeb9c3c8f02d49b7,hollow,adj,/ˈhɑː.loʊ/,trống rỗng,0
+6669b47edeb9c3c8f02d49b8,horrified,adj,/ˈhɔːr.ə.faɪd/,khiếp sợ,0
+6669b47edeb9c3c8f02d49b9,humiliated,adj,/hjuːˈmɪl.i.eɪ.t̬ɪd/,"cảm giác bẽ mặt, xấu hổ",0
+6669b47edeb9c3c8f02d49ba,indifferent,adj,/ɪnˈdɪf.ɚ.ənt/,"dửng dưng, lãnh đạm, thờ ơ",0
+6669b47edeb9c3c8f02d49bb,intense,adj,/ɪnˈtens/,"mãnh liệt, nồng nhiệt",0
+6669b47edeb9c3c8f02d49bc,interested,adj,/ˈɪn.trɪ.stɪd/,"hứng thú, thích thú",0
+6669b47edeb9c3c8f02d49bd,irritated,adj,/ˈɪr.ə.teɪ.t̬ɪd/,"tức tối, khó chịu",0
+6669b47edeb9c3c8f02d49be,jittery,adj,/ˈdʒɪt̬.ɚ.i/,"bồn chồn, dễ bị kích động",0
+6669b47edeb9c3c8f02d49bf,jolly,adj,/ˈdʒɑː.li/,"vui tươi, nhộn nhịp",0
+6669b47edeb9c3c8f02d49c0,joyful,adj,/ˈdʒɔɪ.fəl/,"hân hoan, vui mừng",0
+6669b47edeb9c3c8f02d49c1,keen,adj,/kiːn/,"say mê, ham thích",0
+6669b47edeb9c3c8f02d49c2,lonely,adj,/ˈloʊn.li/,cô đơn,0
+6669b47edeb9c3c8f02d49c3,longing,adj,/ˈlɑːŋ.ɪŋ/,"thèm khát, thèm muốn",0
+6669b47edeb9c3c8f02d49c4,lost,adj,/lɑːst/,"lạc lõng, mất phương hướng",0
+6669b47edeb9c3c8f02d49c5,lucky,adj,/ˈlʌk.i/,may mắn,0
+6669b47edeb9c3c8f02d49c6,melancholic,adj,/ˌmel.əŋˈkɑː.lɪk/,"u sầu, buồn bã",0
+6669b47edeb9c3c8f02d49c7,miserable,adj,/ˈmɪz.ɚ.ə.bəl/,"khốn khổ, đáng thương",0
+6669b47edeb9c3c8f02d49c8,mortified,adj,/ˈmɔːr.t̬ə.faɪd/,"xấu hổ, ái ngại",0
+6669b47edeb9c3c8f02d49c9,mournful,adj,/ˈmɔːrn.fəl/,"buồn rầu, ảm đạm",0
+6669b47edeb9c3c8f02d49ca,nasty,adj,/ˈnæs.ti/,tục tĩu,0
+6669b47edeb9c3c8f02d49cb,needy,adj,/ˈniː.di/,thiếu thốn (về mặt tình cảm),0
+6669b47edeb9c3c8f02d49cc,nervous,adj,/ˈnɝː.vəs/,"lo lắng, bồn chồn",0
+6669b47edeb9c3c8f02d49cd,numb,adj,/nʌm/,lặng người,0
+6669b47edeb9c3c8f02d49ce,obsessed,adj,/əbˈsest/,ám ảnh,0
+6669b47edeb9c3c8f02d49cf,offended,adj,/əˈfendɪd,"phật ý, cảm thấy bị xúc phạm",0
+6669b47edeb9c3c8f02d49d0,optimistic,adj,/ˌɑːp.təˈmɪs.tɪk/,"lạc quan, yêu đời",0
+6669b47edeb9c3c8f02d49d1,overwhelmed,adj,/ˌoʊ.vɚˈwelmd/,"choáng ngợp, quá tải",0
+6669b47edeb9c3c8f02d49d2,passionate,adj,/ˈpæʃ.ən.ət/,"nồng nhiệt, thiết tha",0
+6669b47edeb9c3c8f02d49d3,peaceful,adj,/ˈpiːs.fəl/,"thanh thản, bình yên",0
+6669b47edeb9c3c8f02d49d4,positive,adj,/ˈpɑː.zə.t̬ɪv/,"tích cực, lạc quan",0
+6669b47edeb9c3c8f02d49d5,proud,adj,/praʊd/,"hãnh diện, tự hào",0
+6669b47edeb9c3c8f02d49d6,regretful,adj,/rɪˈɡret.fəl/,hối tiếc,0
+6669b47edeb9c3c8f02d49d7,relaxed,adj,/rɪˈlækst/,"thư giãn, thoải mái",0
+6669b47edeb9c3c8f02d49d8,relieved,adj,/rɪˈliːvd/,nhẹ nhõm,0
+6669b47edeb9c3c8f02d49d9,satisfied,adj,/ˈsæt̬.ɪs.faɪd/,"thỏa mãn, hài lòng",0
+6669b47edeb9c3c8f02d49da,self-conscious,adj,/ˌselfˈkɑːn.ʃəs/,"e dè, ngượng nghịu",0
+6669b47edeb9c3c8f02d49db,selfish,adj,/ˈsel.fɪʃ/,ích kỷ,0
+6669b47edeb9c3c8f02d49dc,sensitive,adj,/ˈsen.sə.t̬ɪv/,"nhạy cảm, dễ tổn thương",0
+6669b47edeb9c3c8f02d49dd,shameful,adj,/ˈʃeɪm.fəl/,"đáng hổ thẹn, ngượng",0
+6669b47edeb9c3c8f02d49de,shock,adj,/ʃɑːkt/,"bất ngờ, sốc",0
+6669b47edeb9c3c8f02d49df,speechless,adj,/ˈspiːtʃ.ləs/,câm nín,0
+6669b47edeb9c3c8f02d49e0,stressed,adj,/strest/,căng thẳng,0
+6669b47edeb9c3c8f02d49e1,stunned,adj,/stʌnd/,"sững sờ, bất ngờ",0
+6669b47edeb9c3c8f02d49e2,surprised,adj,/sɚˈpraɪzd/,"bất ngờ, ngạc nhiên",0
+6669b47edeb9c3c8f02d49e3,thankful,adj,/ˈθæŋk.fəl/,biết ơn,0
+6669b47edeb9c3c8f02d49e4,upbeat,adj,/ˈʌp.biːt/,"vui vẻ, phấn chấn",0
+6669b47edeb9c3c8f02d49e5,uptight,adj,/ˌʌpˈtaɪt/,"căng thẳng, lo lắng",0
