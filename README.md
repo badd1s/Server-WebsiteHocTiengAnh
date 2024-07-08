@@ -16,9 +16,9 @@ PORT = 3500`
 
 #### Cách tạo token mới
 
-- Mở "Terminal" trong VSCode và chạy `node`
+- Mở "Terminal" trong VSCode.
 
-- Tiếp tục: `require('crypto').randomBytes(64).toString('hex')`
+- Lần lượt nhập `node` và `require('crypto').randomBytes(64).toString('hex')`
 
 - Cần 2 kết quả, sau đó dán 2 kết quả đó vào `ACCESS_TOKEN_SECRET` và `REFRESH_TOKEN_SECRET` trong ".env".
 
