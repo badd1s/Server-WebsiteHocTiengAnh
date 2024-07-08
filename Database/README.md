@@ -1,4 +1,4 @@
-Tài khoản quản trị 
+### Tài khoản quản trị
 
-username: danght2
-password: DangHt22!
+**Username:** danght2  
+**Password:** DangHt22!
